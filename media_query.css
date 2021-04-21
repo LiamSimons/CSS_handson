@@ -1,0 +1,20 @@
+/*css only applied at certain condition*/
+@media (max-width: 900px){
+    header, main, footer, aside{
+        width: 100%;
+    }
+
+    section {
+        border-bottom: 1px solid #000000;
+    }
+
+    main {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 750px) {
+    #logo {
+        display: none;
+    }
+}

@@ -1,0 +1,23 @@
+/*variables able to use in the sass framework*/
+#header {
+  color: #5B83AD;
+}
+
+#footer {
+  text-align: center;
+  color: #5B83AD;
+}
+
+#header {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+
+#header {
+  color: #bbccee;
+  background-color: #111a2b;
+  height: 200px;
+}
+
+/*# sourceMappingURL=demo.css.map */
